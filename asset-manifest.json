@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/page/static/css/main.6a889fac.chunk.css",
+    "main.js": "/page/static/js/main.d28b828e.chunk.js",
+    "main.js.map": "/page/static/js/main.d28b828e.chunk.js.map",
+    "runtime-main.js": "/page/static/js/runtime-main.12fe957c.js",
+    "runtime-main.js.map": "/page/static/js/runtime-main.12fe957c.js.map",
+    "static/js/2.ace17ea4.chunk.js": "/page/static/js/2.ace17ea4.chunk.js",
+    "static/js/2.ace17ea4.chunk.js.map": "/page/static/js/2.ace17ea4.chunk.js.map",
+    "index.html": "/page/index.html",
+    "precache-manifest.9dd4c01b9dd63208ec214d93b1942759.js": "/page/precache-manifest.9dd4c01b9dd63208ec214d93b1942759.js",
+    "service-worker.js": "/page/service-worker.js",
+    "static/css/main.6a889fac.chunk.css.map": "/page/static/css/main.6a889fac.chunk.css.map",
+    "static/media/Header.css": "/page/static/media/green-mountain-2132180.01ec95d6.jpg",
+    "static/media/person-on-a-bridge-near-a-lake-747964.jpg": "/page/static/media/person-on-a-bridge-near-a-lake-747964.07851991.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12fe957c.js",
+    "static/js/2.ace17ea4.chunk.js",
+    "static/css/main.6a889fac.chunk.css",
+    "static/js/main.d28b828e.chunk.js"
+  ]
+}
