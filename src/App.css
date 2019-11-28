@@ -1,0 +1,23 @@
+.flex{
+  display:flex;
+  justify-content: center;
+  align-items: baseline;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.width-33{
+  width: 28%;
+  padding: 30px;
+}
+
+.container-elements {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}

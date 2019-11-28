@@ -1,0 +1,30 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.box {
+  display: flex;
+  align-content: center;
+  margin-top: 50px;
+}
+
+.text {
+  margin-top: 40px;
+}
+
+.title {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+.aboutus-paragraph {
+  font-size: 15px;
+}
+
+.image-lake {
+  width: 350px;
+  height: 350px;
+  padding-right: 50px;
+}
+

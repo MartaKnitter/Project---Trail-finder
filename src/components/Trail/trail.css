@@ -1,0 +1,30 @@
+.image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+}
+
+
+.name-header {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+
+}
+
+.summary-header {
+  font-size: 15px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.icons {
+  display: flex;
+}
+
+.rate,
+.lenght,
+.weather {
+  display: block;
+  padding: 20px;
+}
