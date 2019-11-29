@@ -13,7 +13,7 @@ class Header extends Component {
                             <h1 className="h1-header">Find Your Trail in Orlando</h1>
                             <p className="paragraph-header">
                                 Browse our trail database and choose the one that's right for you</p>
-                            <div className="button">Find trail</div>
+                            <div className="button"><a href="#navigationfilter" className="linkbutton">Find trail</a></div>
                         </div>
                     </section>
                 </header>

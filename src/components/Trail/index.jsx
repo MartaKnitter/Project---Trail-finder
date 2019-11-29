@@ -6,9 +6,8 @@ import icon1 from './distance.png'
 import icon2 from './thumb.png'
 import icon3 from './weather.png'
 
-
+//funkcyjny
 class Trail extends Component {
-
     render() {
         const {trail} = this.props;
         return (

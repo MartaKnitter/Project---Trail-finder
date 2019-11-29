@@ -35,6 +35,7 @@
   color: grey;
   letter-spacing: 5px;
   font-size: 13px;
+  scroll-behavior: smooth;
 }
 
 .link:after {

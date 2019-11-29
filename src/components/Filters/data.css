@@ -1,6 +1,8 @@
 .select-difficulty-button {
-  display: flex;
+    height: 80px;
   margin: 50px;
-
-  width: 200px;
+    border: 0px;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }

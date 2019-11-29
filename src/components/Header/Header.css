@@ -54,3 +54,20 @@ body {
   width: 1000px;
   margin: 0 auto;
 }
+
+.linkbutton {
+  color: white;
+  text-decoration: none;
+}
+
+.linkbutton:after {
+  display:block;
+  content: '';
+  border-bottom: solid 1px white;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+
+.linkbutton:hover:after { transform: scaleX(1); }
+.linkbutton.fromRight:after{ transform-origin:100% 50%; }
+.linkbutton.fromLeft:after{  transform-origin:  0% 50%; }
